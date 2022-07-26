@@ -2,6 +2,10 @@
 // https://education.launchcode.org/intro-to-professional-web-dev/chapters/typescript/exercises.html 
 
 import { SpaceLocation } from './SpaceLocation';
+import { Astronaut } from './Astronaut';
+import { Cargo } from './Cargo';
+import { Rocket } from './Rocket';
+
 
 // Part 1: Declare (5) Variables With Type
 
